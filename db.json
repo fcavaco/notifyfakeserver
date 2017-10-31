@@ -1,6 +1,11 @@
 {
-	"users":[
-		"user":{"name":"Cokas", "age":23},
-		"user":{"name":"Rachas", "age":32}
+	"users": [{
+			"name": "Cokas",
+			"age": 23
+		},
+		{
+			"name": "Rachas",
+			"age": 32
+		}
 	]
 }
